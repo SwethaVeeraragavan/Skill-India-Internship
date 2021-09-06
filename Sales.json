@@ -1,0 +1,16 @@
+{
+    "1": {"Product_id": ["1028", "1023"], "Name": ["Notebook", "Bourbon"], "Quantity": [2, 1], "Price": [23, 250],
+            "Bill_Amount": 273},
+    "2": {"Product_id": ["1026"], "Name": ["Phone"], "Quantity": [1], "Price": [50000],
+           "Bill_Amount": 50000},
+    "3": {"Product_id": ["1020"], "Name": ["Marie Gold"], "Quantity": [1], "Price": [15],
+            "Bill_Amount": 15}
+    "4": {"Product_id": ["1011"], "Name": ["Oreo daily milk"], "Quantity": [1], "Price": [35],
+            "Bill_Amount": 15}
+     "5": {"Product_id": ["1020"], "Name": ["Marie Gold"], "Quantity": [5], "Price": [75],
+            "Bill_Amount": 15}
+     "6": {"Product_id": ["1006"], "Name": ["Caramilk"], "Quantity": [1], "Price": [10],
+            "Bill_Amount": 15}
+     "7": {"Product_id": ["1030"], "Name": ["Bottle"], "Quantity": [1], "Price": [100],
+            "Bill_Amount": 15}
+}
